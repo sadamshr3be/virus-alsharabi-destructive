@@ -15,7 +15,8 @@ Infect هو برنامج نصي قائم على bash تم إنشاؤه رسمي�
 * `cd virus-alsharabi-destructive`
 * `ls`
 * `bash infect.sh`
-```
+
+
 قناتي علـّۓ  التلجرام
 
 https://t.me/termuxalsharabi
